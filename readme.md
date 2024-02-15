@@ -2,7 +2,7 @@
 # Estudando as empresas listadas na bolsa de valores B3
 
 
-### ATIVIDADE 1
+### 1ª Etapa
 
 1. :white_check_mark: Importar dados da bolsa
 2. :white_check_mark: Visualizar as primeiras 7 linhas e as últimns 5 do DataFrame.
@@ -12,7 +12,7 @@
 6. :white_check_mark: Transformar os dados numéricos float
 7. :white_check_mark: Calcular estatísticas descritivas básicas das principais colunas numéricas do DataFrame
 
-### ATIVIDADE 2
+### 2ª Etapa
 
 1. :white_check_mark: Calcular a média do *DIVIDEND YIELD* das empresas com *MARGEM LÍQUIDA* ACIMA DE 10%
 2. :white_check_mark: Verificar percentual de empresas que tem P/L acima de 4.
@@ -20,7 +20,7 @@
 4. :white_check_mark: Criar Gráfico de Barra Horizontal com as 5 primeiras empresas, resultantes da análise anterior
 
 
-### ATIVIDADE 3
+### 3ª Etapa
 
 1. :white_check_mark: Acrescentar coluna com nome das empresas 
 2. 
