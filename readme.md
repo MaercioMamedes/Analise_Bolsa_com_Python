@@ -1,6 +1,8 @@
 # Análise de dados com Pandas
 # Estudando as empresas listadas na bolsa de valores B3
 
+Este projeto tem o objetivo de fazer uma análise exploratória de dados, das empresas listadas na [B3](https://www.b3.com.br/pt_br/b3/institucional/quem-somos/). Utilizando métodos e recursos e técnicas de Análise de Dados com a Linguagem Python.
+
 
 ### 1ª Etapa
 
